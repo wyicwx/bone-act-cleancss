@@ -1,7 +1,7 @@
 {
   "name": "bone-act-cleancss",
   "version": "0.0.1",
-  "description": "clean css for bone",
+  "description": "clean-css for bone",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
