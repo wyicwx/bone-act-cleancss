@@ -1,5 +1,5 @@
 # bone-act-cleancss
-> bone的less处理器
+> bone的css压缩器处理器
 
 ### 安装及使用
 
