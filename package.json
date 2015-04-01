@@ -1,0 +1,18 @@
+{
+  "name": "bone-act-cleancss",
+  "version": "0.0.1",
+  "description": "clean css for bone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clean-css": "^3.1.8"
+  }
+}
